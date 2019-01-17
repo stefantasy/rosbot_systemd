@@ -1,0 +1,5 @@
+[Unit]
+Description=chassis_start
+[Service]
+ExecStart=/usr/local/bin/aikit_shell/chassis_start.sh
+

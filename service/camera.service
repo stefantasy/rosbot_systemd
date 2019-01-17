@@ -1,0 +1,5 @@
+[Unit]
+Description=lidar_start
+[Service]
+ExecStart=/usr/local/bin/aikit_shell/camera.sh
+
